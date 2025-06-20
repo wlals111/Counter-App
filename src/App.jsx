@@ -1,5 +1,5 @@
 import './App.css';
-import Controller from './components/controller';
+import Controller from './components/Controller';
 import Viewer from './components/Viewer';
 import { useState } from 'react';
 
