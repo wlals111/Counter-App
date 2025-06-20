@@ -1,0 +1,21 @@
+.app {
+  width: 400px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.app > section {
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.controller > div > button {
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
