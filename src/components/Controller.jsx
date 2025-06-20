@@ -1,5 +1,3 @@
-import './Controller.css';
-
 const Controller = ({ onClickButton }) => {
   return (
     <div>
